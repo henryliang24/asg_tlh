@@ -33,9 +33,9 @@
     <div class="container-fluid">
     <h2 style = "font-family: 'Anton', sans-serif;" class="float-left text-center text-white">AIR POLLUTION</h2>
       <div class="ml-5">
-        <a class="navbar-brand" href="#">Home</a>
+        <a class="navbar-brand" href="index.php">Home</a>
         
-        <a class="navbar-brand" href="/assignment_tlh/healthconcerns.php">Health Concerns </a>
+        <a class="navbar-brand" href="/assignment_tlh/#">Health Concerns </a>
         
         <a class="navbar-brand" href="/assignment_tlh/environmentalconcerns.php">Environmental Concerns</a>
         
@@ -132,7 +132,7 @@
       <div class="carousel-caption mb-5 text-center ">
       <h1 class="masthead-heading ">Join Our Cause</h1>
         <h2 class="masthead-subheading ">See What You Can Do</h2>
-        <a href="waystohelp.php" class="btn btn-outline-alert btn-xl btn-sm rounded-pill text-white  ">Click Here To Learn More</a>
+        <a href="waystohelp.php" class="btn btn-alert text-dark btn-xl rounded-pill ">Click Here To Learn More</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -148,7 +148,7 @@
       <div class="carousel-caption mb-5 text-center  ">
       <h1 class="masthead-heading mb-0">Stop Air Pollution</h1>
         <h2 class="masthead-subheading mb-0">It Kills Our Earth</h2>
-        <a href="healthconcerns.php" class="btn btn-outline-alert btn-xl btn-sm rounded-pill text-white">Learn More</a>
+        <a href="#" class="btn btn-primary btn-xl rounded-pill ">Learn More</a>
       </div>
     </div>
   </div>
@@ -173,77 +173,39 @@
     <div class="bg-circle-2 bg-circle"></div>
     <div class="bg-circle-3 bg-circle"></div>
     <div class="bg-circle-4 bg-circle"></div> -->
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="img/pol.jpg"   width="1100" height="500" alt="Smoke Uprising from industrial Chimneys">
-          </div>
+    <link href="https://fonts.googleapis.com/css?family=Racing+Sans+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+    <div class="read bg-gray">
+      <div class="container p-5 text-center text-white">
+        <img src="img/J.jpg" alt="read">
+        <h5>LEARN MORE  <br>ABOUT HOW THE ENVIRONMENT IS EFFECTED BY AIR POLLUTION</h5>
+        <p>"the more you know the less you fear"</p>
+        <button class="button" onclick="location.href="" type="button">Login</button>
         </div>
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h2 class="display-4">AIR POLLUTION WRECK!!!</h2>
-            <p>Air pollution kills an estimated seven million people worldwide every year. WHO data shows that 9 out of 10 people breathe air containing high levels of pollutants. WHO is working with countries to monitor air pollution and improve air quality. 
-<br>
-From smog hanging over cities to smoke inside the home, air pollution poses a major threat to health and climate. The combined effects of ambient (outdoor) and household air pollution cause about seven million premature deaths every year, largely as a result of increased mortality from stroke, heart disease, chronic obstructive pulmonary disease, lung cancer and acute respiratory infections.
-<br>
-More than 80% of people living in urban areas that monitor air pollution are exposed to air quality levels that exceed WHO guideline limits, with low- and middle-income countries suffering from the highest exposures, both indoors and outdoors.</p>
-          </div>
-        </div>
-      </div>
     </div>
-  </section>
 
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="img/square.jpg" width="1100" height="500"  alt="airpollution">
-          </div>
+    <div class="mapbx">
+        <img src="img/tpmap.jpg" alt="sj">
+        <div class="des">
+            GEOGRAPHY AND CLIMATE
+            <br>
+            <br> Tropical rainforests lie in the "tropics" between the Tropic of Capricorn and the Tropic of Cancer. In this region, sunlight hits the earth at an angle of about 90 degrees, resulting in intense solar energy. This intensity is due to the constant equatorial length of the day: 12 hours a day, 365 days a year. This steady sunlight provides the necessary energy to power the forest through photosynthesis.
+            <br>
+            <br> Due to the high solar energy, tropical rainforests like the Amazon are usually warm year round, with temperatures of 22-34 ° C, although forests at higher elevations, especially in cloud forests, are much cooler. The temperature may vary during the year, but in some equatorial forests the average may only be a few degrees throughout the year. Temperatures are generally mitigated by cloudiness and high humidity.
         </div>
-        <div class="col-lg-6">
-          <div class="p-5">
-            <h2 class="display-4">It's Everywhere!!!</h2>
-            <p>Around 91% of the world’s population live in places where air quality levels exceed WHO limits. While ambient air pollution affects developed and developing countries alike, low- and middle-income countries experience the highest burden, with the greatest toll in the WHO Western Pacific and South-East Asia regions. 
-<br>
-The major outdoor pollution sources include vehicles, power generation, building heating systems, agriculture/waste incineration and industry. Policies and investments supporting cleaner transport, energy-efficient housing, power generation, industry and better municipal waste management can effectively reduce key sources of ambient air pollution.
-<br>
-Air quality is closely linked to earth’s climate and ecosystems globally. Many of the drivers of air pollution (i.e. combustion of fossil fuels) are also sources of high CO2 emissions. Policies to reduce air pollution, therefore, offer a “win–win” strategy for both climate and health, lowering the burden of disease attributable to air pollution, as well as contributing to the near- and long-term mitigation of climate change.</p>
-          </div>
-        </div>
-      </div>
     </div>
-  </section>
 
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 order-lg-2">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="img/download1.png" width="1100" height="500"  alt="">
-          </div>
+    <div class="blu">
+        <img src="img/j.jpg" alt="gb">
+        <div class="vo">
+            TROPICAL RAINFOREST ECOSYSTEM
+            <br>
+            <br> Tropical rainforests exist in three major global areas: Central and South America, Africa and Indo-Malaysia. They are aptly called rainforests, which average between 125 and 660 cm of precipitation per year.
+            <br>
+            <br> Tropical rainforests are usually found near the equator, so that direct sunlight is possible in any habitat. Therefore, there is no cold season. The temperatures are on average between 20 ° C and 34 ° C. The combination of heat and rain creates a very humid environment. The warm air stores the water vapor, but as the air rises and cools, clouds form, producing more rain.
         </div>
-        <div class="col-lg-6 order-lg-1">
-          <div class="p-5">
-            <h2 class="display-4">Let's FIGHT IT TOGETHER!!</h2>
-            <p>The World Health Organization (WHO) works with all Member States to support their national health development process, whether or not WHO has a physical presence.
-
-In countries, WHO promotes the achievement of the highest sustainable level of health of all people.
-<br>
-WHO cooperates with governments and other partners in pursuing countries’ national health strategies and plans as well as collective commitments by the WHO Governing Bodies.
-
-</p>
-<div class="text-center ">
-<a href="https://www.who.int/health-topics/air-pollution#tab=tab_1" class="btn btn-outline-success  rounded-pill">Learn More with WHO</a>
-</div>
-          </div>
-        </div>
-      </div>
     </div>
-    
-  </section>
+
 
   <!-- Footer -->
   <footer class=" container-fluid bg-dark ">
@@ -251,15 +213,14 @@ WHO cooperates with governments and other partners in pursuing countries’ nati
      <div class= "col-md-4 text-white float-left bg-dark p-2">
       <h3>Where We Work</h3>
       
-      <a href="" class="text-decoration-none "><h4>America</h4></a>
-      <a href="" class="text-decoration-none "><h4>Africa</h4></a>
-      <a href="" class="text-decoration-none "><h4>South-East Asia</h4></a>
-      <a href="" class="text-decoration-none "><h4>Europe</h4></a>
+      <a href="" class="text-decoration-none "><h3>America</h3></a>
+      <a href="" class="text-decoration-none "><h3>Africa</h3></a>
+      <a href="" class="text-decoration-none "><h3>South-East Asia</h3></a>
+      <a href="" class="text-decoration-none "><h3>Europe</h3></a>
 
       <div class="container p-2">
       <p> What We do is Widely supported by WHO and the Government of the concerned Country</p>
-      <a href="https://www.who.int/health-topics/air-pollution#tab=tab_1"><img src="img/who.png" width="150" height="150" alt=""></a>
-      <a href="https://www.who.int/health-topics/air-pollution#tab=tab_1"><img src="img/who.png" width="150" height="150" alt=""></a>
+      <a href="https://www.who.int/health-topics/air-pollution#tab=tab_1"><img src="img/smoke.jpg" width="200" height="150" alt=""></a>
       </div>
      </div>
 
